@@ -1,3 +1,4 @@
 Reset test
 updated
 new line for merge
+git rebase
